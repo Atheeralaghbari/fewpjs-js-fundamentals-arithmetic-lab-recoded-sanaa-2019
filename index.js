@@ -7,6 +7,6 @@ multiply-=1;
 
 
 
- const random =Math.floor(Math.random()*10);
+ const random =Math.ceil(Math.random()*10);
  var mod=16%6;
  var max=Math.max(10,15,5,20,0);
